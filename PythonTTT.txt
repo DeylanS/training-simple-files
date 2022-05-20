@@ -1,0 +1,18 @@
+1. Canva Slide definition python:
+-else
+-if else
+-while
+-do while
+
+2. Intro to VsCode
+-anaconda
+-python ide interpreter
+-gitpod for unprepared
+
+3. Github -sign in demo
+
+4. Kahoot intelligence test
+
+5. Anaconda slides
+
+27/5-Due
